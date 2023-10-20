@@ -1,4 +1,10 @@
 ### Hi there 👋
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yasmuru&color=0E9C47&style=for-the-badge">
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=yasmuru&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmuru&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=yasmuru&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!--
 **yasmuru/yasmuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
