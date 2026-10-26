@@ -9,13 +9,6 @@
   <a href="https://linkedin.com/in/yasmuru"><img src="https://img.shields.io/badge/-yasmuru-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-### 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **Web3 & DeFi protocols**
-- 🌱 I'm currently learning **Rust, ZK, and advanced Solidity patterns**
-- 💬 Ask me about **TypeScript, Solidity, React, Node.js**
-- ⚡ Fun fact: I love building things that scale
-
 ### 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
